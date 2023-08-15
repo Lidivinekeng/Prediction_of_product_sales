@@ -54,7 +54,7 @@ The dataset used for this analysis is the Sale Prediction 2023 from Project Data
 The preferred model was the Tuned Random Forest Regressor Model with an R^2 score of 0.595, showing improved performance compared to the linear regression model.
 
 ## Overall Recommendation
-
+- Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far it outperformed the linear regression model.
 
 ## Limitations & Next Steps
 - The limitations of the model are acknowledged.
