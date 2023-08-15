@@ -17,7 +17,8 @@ The dataset used for this analysis is the Sale Prediction 2023 from Project Data
 - Visualize data using histograms, box plots, and bar plots
 - Provide a baseline understanding of numeric and categorical columns through univariate Exploratory Data Analysis (EDA)
 
-![Image Alt Text](/content/drive/MyDrive/StudentFolders16wk20wk/CodingDojo/project/Saved Pictures/1.png)
+![Exploratory Data Analysis](./images/eda.png)
+
 
 ## Results
 - Exploratory data analysis included visualizations such as histograms and bar plots to gain insights into data distribution.
