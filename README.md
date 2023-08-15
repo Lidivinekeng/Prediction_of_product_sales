@@ -17,13 +17,16 @@ The dataset used for this analysis is the Sale Prediction 2023 from Project Data
 - Visualize data using histograms, box plots, and bar plots
 - Provide a baseline understanding of numeric and categorical columns through univariate Exploratory Data Analysis (EDA)
 
-![Exploratory Data Analysis](./images/eda.png)
+![Exploratory Data Analysis](1.png)
 
 
 ## Results
 - Exploratory data analysis included visualizations such as histograms and bar plots to gain insights into data distribution.
 - Sales distribution across different outlets, with emphasis on OUT027, was highlighted.
 - Explanatory data analysis included bar graphs and a line graph to provide insights into category comparisons and sales trends.
+
+  ![Exploratory Data Analysis](2.png)
+  ![Exploratory Data Analysis](3.png)
 
 ## Machine Learning Models Used
 - Linear Regression Model
