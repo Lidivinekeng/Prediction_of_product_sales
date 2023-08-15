@@ -54,11 +54,11 @@ The dataset used for this analysis is the Sale Prediction 2023 from Project Data
 The preferred model was the Tuned Random Forest Regressor Model with an R^2 score of 0.595, showing improved performance compared to the linear regression model.
 
 ## Overall Recommendation
-- Data Science Insights: The README concludes with insights for individuals interested in data science careers, highlighting job roles, remote work opportunities, and the growing demand for data science skills.
+
 
 ## Limitations & Next Steps
-- The limitations of the model are acknowledged, and suggestions are given to use insights for career path planning.
-- Aspiring data scientists are recommended to explore Coding Dojo's program.
-
+- The limitations of the model are acknowledged.
+- - the stores could set up a reorganization of the store to highlight the products that can be sold.
+- review stock management based on sales predictions
 ## Contact Information
 For further inquiries, please contact Lidivine Kengne at lidiviaKeng@gmail.com.
